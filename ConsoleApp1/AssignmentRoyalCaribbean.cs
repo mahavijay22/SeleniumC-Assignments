@@ -9,9 +9,8 @@ using System.Threading;
 
 namespace ConsoleApp1
 {
-    class Program
+    class RoyalCaribbean
     {
-
         public static void ClickElement(IWebElement Ele)
 
         {Ele.Click();
@@ -22,8 +21,7 @@ public static void SendkeyElement(IWebElement Ele, String s)
         { Ele.Click();
             Ele.Clear();
             Ele.SendKeys(s);
-
-        }
+ }
 
         static void Main(string[] args)
 
