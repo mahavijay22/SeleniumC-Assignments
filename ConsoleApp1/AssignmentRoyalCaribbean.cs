@@ -23,7 +23,7 @@ public static void SendkeyElement(IWebElement Ele, String s)
             Ele.SendKeys(s);
  }
 
-       public static void royal()
+       public static void royalCaribbean()
 
         {
 

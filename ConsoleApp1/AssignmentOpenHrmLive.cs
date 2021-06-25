@@ -21,8 +21,8 @@ namespace ConsoleApp1
             Ele.Clear();
             Ele.SendKeys(s);
         }
-        static void Main(string[] args)
-
+        
+public static void OpenHrMlIve()
         {
             IWebDriver driver = new ChromeDriver();
             driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(20);
