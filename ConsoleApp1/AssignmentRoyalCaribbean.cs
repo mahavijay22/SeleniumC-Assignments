@@ -23,7 +23,7 @@ public static void SendkeyElement(IWebElement Ele, String s)
             Ele.SendKeys(s);
  }
 
-        static void Main(string[] args)
+       public static void royal()
 
         {
 
