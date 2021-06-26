@@ -19,7 +19,7 @@ namespace ConsoleApp1
             Ele.SendKeys(s);
         }
 
-        static void Main(string[] args)
+      public  static void Magento()
         {
 
             String Email = "balaji0017@gmail.com";
